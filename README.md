@@ -1,7 +1,7 @@
 # twitter_account_checker
 Checks whether a set of twitter accounts are restricted or not 
 
-To run:
+To run:\n
 Extract all files into one folder
 Create twitter.csv
 Add the following fields:
